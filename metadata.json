@@ -1,0 +1,6 @@
+{
+  "name": "Duke Care",
+  "description": "A warm, compassionate, and professional Residential Care Facility for the Elderly (RCFE) in Concord, California.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
